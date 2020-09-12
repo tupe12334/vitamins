@@ -14,5 +14,5 @@ export default function SignupForm() {
       <TextField label="שם מלא" value={UserName} onChange={onChange}/>
       <br/>
       <Button variant="contained" onClick={saveName}>הרשם</Button>
-  </form>;
+  </form>
 }
