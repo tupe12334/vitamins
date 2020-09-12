@@ -6,7 +6,10 @@ import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
+    <div dir="rtl">
     <App />
+
+    </div>
   </React.StrictMode>,
   document.getElementById('root')
 );
