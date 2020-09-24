@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/vitamins/static/css/main.523f09c5.chunk.css",
+    "main.js": "/vitamins/static/js/main.1fa42b66.chunk.js",
+    "main.js.map": "/vitamins/static/js/main.1fa42b66.chunk.js.map",
+    "runtime-main.js": "/vitamins/static/js/runtime-main.202c0da6.js",
+    "runtime-main.js.map": "/vitamins/static/js/runtime-main.202c0da6.js.map",
+    "static/css/2.40b8b162.chunk.css": "/vitamins/static/css/2.40b8b162.chunk.css",
+    "static/js/2.de284ade.chunk.js": "/vitamins/static/js/2.de284ade.chunk.js",
+    "static/js/2.de284ade.chunk.js.map": "/vitamins/static/js/2.de284ade.chunk.js.map",
+    "index.html": "/vitamins/index.html",
+    "precache-manifest.57f88a7cf09bddb9b90c248647f56fc3.js": "/vitamins/precache-manifest.57f88a7cf09bddb9b90c248647f56fc3.js",
+    "service-worker.js": "/vitamins/service-worker.js",
+    "static/css/2.40b8b162.chunk.css.map": "/vitamins/static/css/2.40b8b162.chunk.css.map",
+    "static/css/main.523f09c5.chunk.css.map": "/vitamins/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.de284ade.chunk.js.LICENSE.txt": "/vitamins/static/js/2.de284ade.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/vitamins/static/media/logo.ee7cd8ed.svg",
+    "static/media/index.css": "/vitamins/static/media/roboto-vietnamese-400-normal.a8be5b46.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.202c0da6.js",
+    "static/css/2.40b8b162.chunk.css",
+    "static/js/2.de284ade.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.1fa42b66.chunk.js"
+  ]
+}
