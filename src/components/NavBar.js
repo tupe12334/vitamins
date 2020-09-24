@@ -9,6 +9,7 @@ import MenuIcon from "@material-ui/icons/Menu";
 import Menu from "@material-ui/core/Menu";
 import MenuItem from "@material-ui/core/MenuItem";
 import AccountCircle from "@material-ui/icons/AccountCircle";
+const urlFolder = "/vitamins"
 
 export default function Navbar() {
   const [anchorEl, setAnchorEl] = React.useState(null);
@@ -47,7 +48,7 @@ export default function Navbar() {
                 selected={index === selectedIndex}
                 onClick={(event) => handleMenuItemClick(event, index)}
               >
-                <Link to={pages === "Main" ? "/" : `/${pages}`}>{pages}</Link>
+                <Link to={pages === "Main" ? `${urlFolder}/` : `${urlFolder}/${pages}`}>{pages}</Link>
               </MenuItem>
             ))}
           </Menu>
