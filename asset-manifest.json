@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vitamins/static/css/main.523f09c5.chunk.css",
-    "main.js": "/vitamins/static/js/main.b4f4be0e.chunk.js",
-    "main.js.map": "/vitamins/static/js/main.b4f4be0e.chunk.js.map",
+    "main.js": "/vitamins/static/js/main.c1bdccf5.chunk.js",
+    "main.js.map": "/vitamins/static/js/main.c1bdccf5.chunk.js.map",
     "runtime-main.js": "/vitamins/static/js/runtime-main.202c0da6.js",
     "runtime-main.js.map": "/vitamins/static/js/runtime-main.202c0da6.js.map",
     "static/css/2.40b8b162.chunk.css": "/vitamins/static/css/2.40b8b162.chunk.css",
     "static/js/2.de284ade.chunk.js": "/vitamins/static/js/2.de284ade.chunk.js",
     "static/js/2.de284ade.chunk.js.map": "/vitamins/static/js/2.de284ade.chunk.js.map",
     "index.html": "/vitamins/index.html",
-    "precache-manifest.8c4bdeb1bf2bb596cdcceef60db8b763.js": "/vitamins/precache-manifest.8c4bdeb1bf2bb596cdcceef60db8b763.js",
+    "precache-manifest.196e20c333560b34efb10433c6c4fe1a.js": "/vitamins/precache-manifest.196e20c333560b34efb10433c6c4fe1a.js",
     "service-worker.js": "/vitamins/service-worker.js",
     "static/css/2.40b8b162.chunk.css.map": "/vitamins/static/css/2.40b8b162.chunk.css.map",
     "static/css/main.523f09c5.chunk.css.map": "/vitamins/static/css/main.523f09c5.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.40b8b162.chunk.css",
     "static/js/2.de284ade.chunk.js",
     "static/css/main.523f09c5.chunk.css",
-    "static/js/main.b4f4be0e.chunk.js"
+    "static/js/main.c1bdccf5.chunk.js"
   ]
 }
