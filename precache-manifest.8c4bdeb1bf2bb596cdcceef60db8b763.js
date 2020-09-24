@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "63f8482ef35466ebd021e8b70573d484",
+    "revision": "03cee4de9e6fae43c2afc4105486fff0",
     "url": "/vitamins/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vitamins/static/css/2.40b8b162.chunk.css"
   },
   {
-    "revision": "27846111df2ac6b6e11c",
+    "revision": "109727697bf08eeaac06",
     "url": "/vitamins/static/css/main.523f09c5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vitamins/static/js/2.de284ade.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "27846111df2ac6b6e11c",
-    "url": "/vitamins/static/js/main.1fa42b66.chunk.js"
+    "revision": "109727697bf08eeaac06",
+    "url": "/vitamins/static/js/main.b4f4be0e.chunk.js"
   },
   {
     "revision": "2e2553ba9e043374fd9a",
