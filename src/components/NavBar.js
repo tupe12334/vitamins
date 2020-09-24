@@ -48,7 +48,7 @@ export default function Navbar() {
                 selected={index === selectedIndex}
                 onClick={(event) => handleMenuItemClick(event, index)}
               >
-                <Link to={pages === "Main" ? `${urlFolder}/` : `${urlFolder}/${pages}`}>{pages}</Link>
+                <Link to={pages === "Main" ? `/` : `/${pages}`}>{pages}</Link>
               </MenuItem>
             ))}
           </Menu>
